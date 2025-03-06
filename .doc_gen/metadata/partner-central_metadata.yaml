@@ -1,14 +1,14 @@
 partner-central_CreateOpportunity:
-  category:
+  category: 
   languages:
-    .NET:
+    .Net:
       versions:
-        - sdk_version: 3
-          github:
-          sdkguide:
-          excerpts:
-            - description: 
-              snippet_files:
-                - partner-central-api-sample-codes/dotnet_preview/src/CreateOpportunity/Program.cs
+      - excerpts:
+        - description: ''
+          snippet_files:
+          - partner-central-api-sample-codes/dodnet_preview/src/CreateOpportunity/Program.cs
+        sdk_version: 3
+        github_name: 
+        github: 
   services:
     partner-central: { CreateOpportunity }
