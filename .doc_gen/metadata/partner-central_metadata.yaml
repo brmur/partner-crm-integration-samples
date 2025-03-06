@@ -12,4 +12,3 @@ partner-central_CreateOpportunity:
                 - partner-central-api-sample-codes/dotnet_preview/src/CreateOpportunity/Program.cs
   services:
     partner-central: { CreateOpportunity }
-    
