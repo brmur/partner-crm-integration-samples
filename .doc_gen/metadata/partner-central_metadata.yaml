@@ -1,7 +1,7 @@
 partner-central_CreateOpportunity:
   category: 
   languages:
-    .Net:
+    .NET:
       versions:
       - excerpts:
         - description: ''
