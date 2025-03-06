@@ -7,7 +7,5 @@ partner-central_CreateOpportunity:
           snippet_files:
           - partner-central-api-sample-codes/dotnet_preview/src/CreateOpportunity/Program.cs
         sdk_version: 3
-        github_name: 
-        github: 
   services:
     partner-central: { CreateOpportunity }
